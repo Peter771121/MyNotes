@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "303295d7fa575c51",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4d9128bee915e33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddb5299ccabcaea7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9134916aa9fd5d6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-閃念筆記/demo附件.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b726b07eccde6a06",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6bc1d0979f7e10d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c099733b3ce3ee83",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "caba0c54f3797082",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f14a516344eaf45c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e405e4d280891dc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e05ec91fc8f4b327",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2428ec7c5e924e67",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a4edb83bf6025ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92734f056d4556a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aff746254d64e9af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "ddb5299ccabcaea7",
+  "lastOpenFiles": [
+    "0-閃念筆記/demo附件.md",
+    "0-閃念筆記/attachments/商業聲明書-1.pdf",
+    "0-閃念筆記/attachments",
+    "＿attachments/時數證明.pdf",
+    "時數證明.pdf",
+    "＿attachments",
+    "5-程式設計（永久）",
+    "Z-樣版",
+    "X-主題索引",
+    "4-生產力（永久）",
+    "3-投資理財（永久）"
+  ]
+}
