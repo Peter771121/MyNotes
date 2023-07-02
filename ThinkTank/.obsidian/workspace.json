@@ -11,8 +11,12 @@
             "id": "ddb5299ccabcaea7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1-日誌/2023-07-02.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1-日誌/2023-07-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1-日誌/2023-07-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1-日誌/2023-07-02.md"
+              }
             }
           }
         ]
@@ -152,6 +160,7 @@
   },
   "active": "ddb5299ccabcaea7",
   "lastOpenFiles": [
+    "1-日誌/2023-07-02.md",
     "0-閃念筆記/demo附件.md",
     "0-閃念筆記/attachments/商業聲明書-1.pdf",
     "0-閃念筆記/attachments",
